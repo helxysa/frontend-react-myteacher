@@ -19,7 +19,7 @@
 <h1>Como iniciar projeto</h1>
 <h2> Backend </h2>
 <p>Projeto BACKEND no link abaixo</p>
-<a href="https://github.com/helxysa/backend-django-myteacher" target="_blank">REPO DO BACKEND</a>
+<a href="https://github.com/helxysa/backend-django-myteacher" target="_blank">Backend</a>
 
 <h2> Frontend </h2>
 <h3> Dependencias </h3>
