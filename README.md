@@ -1,4 +1,4 @@
-<h1>Feito no workshop da treina web, foi ultilizado a biblioteca @mui-material, e é uma pagina web para marcar aulas. </h1>
+<h1>Site para marcar aulas. </h1>
 <span align='center'>
 
 <img src="/imagens/localhost_3000_(iPad Air).png" alt="pagina principal">
@@ -11,22 +11,15 @@
  - Typescript
 </br>
   - Javascript
-</br>
- - Django & Django Rest
+ </br>
+ - Biblioteca @mui-material
  </h3>
+  
 
 <h1>Como iniciar projeto</h1>
 <h2> Backend </h2>
-<h3> Dependencias </h3>
-
-```bash
- pip install
-```
-<p> Após isso instalar virtual venv </p>
-
-```bash
- pip install virtualenv
-```
+<p>Projeto BACKEND no link abaixo</p>
+<a href="https://github.com/helxysa/backend-django-myteacher" target="_blank">REPO DO BACKEND</a>
 
 <h2> Frontend </h2>
 <h3> Dependencias </h3>
@@ -40,12 +33,6 @@
 ```bash
  npm run dev
 ```
-
-<strong>Caso não tenha python no ambiente, esses dois links iram ajudar a baixar o pip e o virtualvenv</strong>
-<div> <a href="https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv"  target="_blank">VirtualVenv</a>
-</div>
-</br>
-<a href="https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10" target="_blank">PIP</a>
 
 
 
